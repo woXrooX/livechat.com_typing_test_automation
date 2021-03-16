@@ -23,5 +23,5 @@ while type:
         pass
 
 
-if input("Enter E to exit browser: ") in ("E", "e"):
-    browser.quit()
+input("Enter anything to quit: ")
+browser.quit()
