@@ -8,6 +8,8 @@ browser.get("https://www.livechat.com/typing-speed-test/#/")
 time.sleep(1)
 
 type = True
+
+# bigger is slower
 typing_speed = 1.3
 
 while type:
